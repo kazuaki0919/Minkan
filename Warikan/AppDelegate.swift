@@ -14,10 +14,38 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
+    
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        
+        var storyboard: UIStoryboard = self.grabStoryboard()
+        if let window = window {
+            window.rootViewController = storyboard.instantiateInitialViewController() as? UIViewController
+        }
+        
+        self.window?.makeKeyAndVisible()
+        
         return true
     }
+    
+    func grabStoryboard() -> UIStoryboard {
+        var storyboard = UIStoryboard()
+        var height = UIScreen.mainScreen().bounds.size.height
+        
+        //iPhone6
+        if height == 667 {
+            storyboard = UIStoryboard(name: "Main.storyboard", bundle: nil)
+        //iPhone6 Plus
+        }else if height == 736 {
+            storyboard = UIStoryboard(name: "5.5inchStoryboard", bundle: nil)
+        //iPhone5・5s・5c
+        }else {
+            storyboard = UIStoryboard(name: "4inchStoryboard", bundle: nil)
+        }
+        return storyboard
+    }
+
+    
 
     func applicationWillResignActive(application: UIApplication) {
         // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.

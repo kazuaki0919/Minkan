@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="rty-kw-hQE">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <scenes>
+        <!--料金-->
+        <scene sceneID="k44-wU-zlA">
+            <objects>
+                <viewController id="ptp-6n-Qqf" customClass="ViewController" customModule="Warikan" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="ivz-Rf-XS4"/>
+                        <viewControllerLayoutGuide type="bottom" id="nh8-bg-Ag2"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="KlI-L9-Avg">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mMP-Wi-0Wi">
+                                <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                                <color key="backgroundColor" red="0.41176474089999998" green="0.16078431900000001" blue="0.76862752440000004" alpha="0.25" colorSpace="deviceRGB"/>
+                            </view>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Ub-jQ-CsX">
+                                <rect key="frame" x="169" y="275" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="6">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt6" destination="ptp-6n-Qqf" eventType="touchUpInside" id="FJt-L1-sNn"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vlM-V4-w21">
+                                <rect key="frame" x="170" y="338" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="9">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt9" destination="ptp-6n-Qqf" eventType="touchUpInside" id="O4i-hh-c41"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Aph-G4-2lU">
+                                <rect key="frame" x="169" y="212" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="3">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt3" destination="ptp-6n-Qqf" eventType="touchUpInside" id="4Ba-tM-2eW"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IDJ-c7-l6K">
+                                <rect key="frame" x="42" y="401" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="0">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt0" destination="ptp-6n-Qqf" eventType="touchUpInside" id="kiN-zS-cd5"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pGv-Cv-wbc">
+                                <rect key="frame" x="43" y="212" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="1">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt1" destination="ptp-6n-Qqf" eventType="touchUpInside" id="s6n-98-loW"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cB4-by-DXK">
+                                <rect key="frame" x="170" y="401" width="55" height="55"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="C">
+                                    <color key="titleColor" red="0.8222053346" green="0.1060547225" blue="0.21330229479999999" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="clear" destination="ptp-6n-Qqf" eventType="touchUpInside" id="sCR-c7-MUg"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gho-qR-Vwc">
+                                <rect key="frame" x="106" y="401" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="00">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt00" destination="ptp-6n-Qqf" eventType="touchUpInside" id="pFl-6e-DDg"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oRH-I3-on7">
+                                <rect key="frame" x="106" y="338" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="8">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt8" destination="ptp-6n-Qqf" eventType="touchUpInside" id="IgV-Lx-H2g"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hhd-LV-7Pr">
+                                <rect key="frame" x="42" y="275" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="4">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt4" destination="ptp-6n-Qqf" eventType="touchUpInside" id="514-wd-woP"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z2d-eL-Oxk">
+                                <rect key="frame" x="106" y="212" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="2">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt2" destination="ptp-6n-Qqf" eventType="touchUpInside" id="81O-wf-ioR"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2Gr-kz-wRw">
+                                <rect key="frame" x="0.0" y="129" width="255" height="70"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="80"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="円" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qkP-7i-2cG">
+                                <rect key="frame" x="255" y="129" width="65" height="70"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="料金を入力してください" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vEC-Ku-f8d">
+                                <rect key="frame" x="20" y="78" width="343" height="40"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xvc-Wk-eLw">
+                                <rect key="frame" x="42" y="338" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="7">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt7" destination="ptp-6n-Qqf" eventType="touchUpInside" id="u2y-zq-Rsc"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="v6Z-IH-DMJ">
+                                <rect key="frame" x="106" y="275" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="40"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="5">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="bt5" destination="ptp-6n-Qqf" eventType="touchUpInside" id="m8k-Dx-unI"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1tO-KF-vSG">
+                                <rect key="frame" x="233" y="211" width="60" height="245"/>
+                                <color key="backgroundColor" red="0.92549026010000002" green="0.09803922474" blue="0.32549020649999999" alpha="0.59999999999999998" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
+                                <color key="tintColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="E">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="enter" destination="ptp-6n-Qqf" eventType="touchUpInside" id="mym-OI-Rcw"/>
+                                    <segue destination="B0R-pn-CAs" kind="show" id="GMF-QN-4yu"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="料金" id="6f4-FB-f8r"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                    <connections>
+                        <outlet property="label1" destination="2Gr-kz-wRw" id="xCp-lw-H3J"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4ac-8d-isU" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2880" y="370"/>
+        </scene>
+        <!--人数-->
+        <scene sceneID="y7t-wC-4dk">
+            <objects>
+                <viewController id="B0R-pn-CAs" customClass="NextViewController" customModule="Warikan" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="grR-5g-2QM"/>
+                        <viewControllerLayoutGuide type="bottom" id="eo9-Wm-LI2"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="lMi-9D-0jR">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mMW-tD-hP7">
+                                <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                                <color key="backgroundColor" red="0.41176474089999998" green="0.16078431900000001" blue="0.76862752440000004" alpha="0.25" colorSpace="deviceRGB"/>
+                            </view>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lcl-eb-AA1">
+                                <rect key="frame" x="102" y="274" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="6人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="six" destination="B0R-pn-CAs" eventType="touchUpInside" id="Ij5-IA-iL1"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gSW-9M-5fp">
+                                <rect key="frame" x="165" y="274" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="7人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="seven" destination="B0R-pn-CAs" eventType="touchUpInside" id="FTu-Lf-9rd"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="V1J-jT-TpD">
+                                <rect key="frame" x="165" y="211" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="4人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="four" destination="B0R-pn-CAs" eventType="touchUpInside" id="zRa-UC-Or6"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hPl-AK-e87">
+                                <rect key="frame" x="39" y="211" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="2人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="two" destination="B0R-pn-CAs" eventType="touchUpInside" id="aP2-wS-2C8"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TPc-v8-MIn">
+                                <rect key="frame" x="39" y="274" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="5人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="five" destination="B0R-pn-CAs" eventType="touchUpInside" id="Hig-1a-g0J"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MsT-UL-Dix">
+                                <rect key="frame" x="102" y="211" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="3人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="three" destination="B0R-pn-CAs" eventType="touchUpInside" id="08O-Ze-Sjf"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hk9-mN-OfV">
+                                <rect key="frame" x="0.0" y="128" width="255" height="70"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="80"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="人" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="P31-ux-2Lb">
+                                <rect key="frame" x="255" y="128" width="67" height="70"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="人数を入力してください" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dCJ-qB-ui0">
+                                <rect key="frame" x="20" y="77" width="280" height="40"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="paa-XN-4xJ">
+                                <rect key="frame" x="240" y="211" width="60" height="242"/>
+                                <color key="backgroundColor" red="0.92549026010000002" green="0.09803922474" blue="0.32549020649999999" alpha="0.59999999999999998" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
+                                <color key="tintColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="E">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="enter" destination="B0R-pn-CAs" eventType="touchUpInside" id="3E6-tC-Y7L"/>
+                                    <segue destination="bJK-tE-gxj" kind="show" id="icf-pI-a0g"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b6l-ba-zNN">
+                                <rect key="frame" x="39" y="337" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="8人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="eight" destination="B0R-pn-CAs" eventType="touchUpInside" id="JeQ-3u-jxO"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jqy-fz-10X">
+                                <rect key="frame" x="165" y="337" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="25"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="10人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="ten" destination="B0R-pn-CAs" eventType="touchUpInside" id="kMk-6Z-F0e"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3M8-v3-BWG">
+                                <rect key="frame" x="39" y="400" width="181" height="55"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="C">
+                                    <color key="titleColor" red="1" green="0.0" blue="0.2588235438" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="clear" destination="B0R-pn-CAs" eventType="touchUpInside" id="Ycz-Ds-8l2"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pAH-lv-MFf">
+                                <rect key="frame" x="102" y="337" width="55" height="55"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="9人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.83529418710000003" blue="1" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="nine" destination="B0R-pn-CAs" eventType="touchUpInside" id="fal-PB-fRk"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="人数" id="mrD-Pv-uBf"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                    <connections>
+                        <outlet property="label2" destination="hk9-mN-OfV" id="8tR-Co-XuG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qPy-Yy-gOM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3357" y="370"/>
+        </scene>
+        <!--選択-->
+        <scene sceneID="7mU-FB-LVq">
+            <objects>
+                <viewController id="bJK-tE-gxj" customClass="ChoiceViewController" customModule="Warikan" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="KjC-GX-Mu4"/>
+                        <viewControllerLayoutGuide type="bottom" id="O7r-Uw-yCy"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="1eY-LW-Okv">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6Oa-8P-WTg">
+                                <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                                <color key="backgroundColor" red="0.41176474089999998" green="0.16078431900000001" blue="0.76862752440000004" alpha="0.25" colorSpace="deviceRGB"/>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aNi-qI-xi1">
+                                <rect key="frame" x="85" y="307" width="150" height="150"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <state key="normal" title="10円単位" image="10yen.png">
+                                    <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="iGT-8h-aEw" kind="show" identifier="ten" id="z92-Ki-3bA"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="料金の下の単位を選択してください。" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vHV-U0-Q4G">
+                                <rect key="frame" x="-5" y="91" width="340" height="50"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aSL-01-HMD">
+                                <rect key="frame" x="85" y="149" width="150" height="150"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <state key="normal" title="1円単位" image="1yen.png">
+                                    <color key="titleShadowColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="iGT-8h-aEw" kind="show" identifier="normal" id="CQJ-cj-0lg"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="選択" id="Fi5-8K-p1J"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xZJ-Nf-Wci" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3849" y="370"/>
+        </scene>
+        <!--Result View Controller-->
+        <scene sceneID="iJL-SG-Z6y">
+            <objects>
+                <viewController id="iGT-8h-aEw" customClass="ResultViewController" customModule="Warikan" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="ilO-Q8-g5F"/>
+                        <viewControllerLayoutGuide type="bottom" id="6Rw-xk-5b5"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="jPu-yl-hKU">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="35D-Ml-TxC">
+                                <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                                <color key="backgroundColor" red="0.41176474089999998" green="0.16078431900000001" blue="0.76862752440000004" alpha="0.25" colorSpace="deviceRGB"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="割り勘しました。" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aKY-1o-0Hi">
+                                <rect key="frame" x="39" y="92" width="243" height="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="支払料金1人" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MIL-kt-thW">
+                                <rect key="frame" x="16" y="133" width="278" height="60"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="D2X-LU-mfC">
+                                <rect key="frame" x="0.0" y="208" width="255" height="70"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="80"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="円" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xQY-A2-qpJ">
+                                <rect key="frame" x="255" y="208" width="70" height="70"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="です。" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XEW-D7-5Xc">
+                                <rect key="frame" x="210" y="282" width="110" height="60"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="　端数は" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SED-8S-iaG">
+                                <rect key="frame" x="0.0" y="340" width="156" height="50"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ffc-Iw-Er2">
+                                <rect key="frame" x="124" y="340" width="123" height="50"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text=" です。" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ew3-tg-Xm5">
+                                <rect key="frame" x="247" y="340" width="128" height="50"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F0P-q9-khB">
+                                <rect key="frame" x="-27" y="410" width="375" height="55"/>
+                                <color key="backgroundColor" red="0.92549026010000002" green="0.09803922474" blue="0.32549020649999999" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="TOP">
+                                    <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="top:" destination="iGT-8h-aEw" eventType="touchUpInside" id="Jxn-oT-JD9"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="Vl4-md-auS"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                    <connections>
+                        <outlet property="label3" destination="D2X-LU-mfC" id="3U7-jG-WDW"/>
+                        <outlet property="label5" destination="Ffc-Iw-Er2" id="5cK-YM-aCy"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="v77-EK-bC5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4338" y="370"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="P5z-U4-J6l">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="rty-kw-hQE" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="D3Y-0w-Hem">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="ptp-6n-Qqf" kind="relationship" relationship="rootViewController" id="mLM-Lp-tDj"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="z7g-q5-XEx" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2310" y="371"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="10yen.png" width="1200" height="1200"/>
+        <image name="1yen.png" width="1200" height="1200"/>
+    </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="z92-Ki-3bA"/>
+    </inferredMetricsTieBreakers>
+</document>

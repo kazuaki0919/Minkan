@@ -18,9 +18,10 @@
                         <subviews>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1je-X7-hfx">
                                 <rect key="frame" x="165" y="334" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="6" image="number_004_6.png">
+                                <state key="normal" title="6">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -30,9 +31,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b5r-EU-uj7">
                                 <rect key="frame" x="166" y="402" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="9" image="number_004_9.png">
+                                <state key="normal" title="9">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -42,9 +44,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E5H-Iq-wxK">
                                 <rect key="frame" x="165" y="266" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="3" image="number_004_3.png">
+                                <state key="normal" title="3">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -54,9 +57,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QTn-uW-IJG">
                                 <rect key="frame" x="26" y="470" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="0" image="number_004_0.png">
+                                <state key="normal" title="0">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -66,9 +70,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vXz-uf-I0W">
                                 <rect key="frame" x="27" y="266" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="1" image="number_004_1.png">
+                                <state key="normal" title="1">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -78,8 +83,8 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TyX-rk-D0R">
                                 <rect key="frame" x="166" y="470" width="60" height="60"/>
-                                <color key="backgroundColor" red="1" green="0.59838402270000002" blue="0.81084167959999998" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" name="Courier" family="Courier" pointSize="65"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="C">
                                     <color key="titleColor" red="0.8222053346" green="0.1060547225" blue="0.21330229479999999" alpha="1" colorSpace="calibratedRGB"/>
@@ -91,9 +96,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DRj-ee-0o4">
                                 <rect key="frame" x="94" y="470" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="00" image="number_004_00.png">
+                                <state key="normal" title="00">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -103,9 +109,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="43w-Bm-f4b">
                                 <rect key="frame" x="94" y="402" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="8" image="number_004_8.png">
+                                <state key="normal" title="8">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -115,9 +122,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nMo-fl-ES7">
                                 <rect key="frame" x="26" y="334" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="4" image="number_004_4.png">
+                                <state key="normal" title="4">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -127,9 +135,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="87B-1B-MKm">
                                 <rect key="frame" x="94" y="266" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="2" image="number_004_2.png">
+                                <state key="normal" title="2">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -138,15 +147,15 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PlV-Vb-pvm">
-                                <rect key="frame" x="0.0" y="142" width="252" height="90"/>
-                                <color key="backgroundColor" red="1" green="0.887974865" blue="0.65546347989999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <rect key="frame" x="0.0" y="142" width="250" height="90"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="80"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="円" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GgM-7A-PCL">
                                 <rect key="frame" x="250" y="142" width="70" height="90"/>
-                                <color key="backgroundColor" red="1" green="0.887974865" blue="0.65546347989999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
@@ -159,9 +168,10 @@
                             </label>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="itG-pH-2by">
                                 <rect key="frame" x="26" y="402" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="7" image="number_004_7.png">
+                                <state key="normal" title="7">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -171,9 +181,10 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zuX-rl-Fuh">
                                 <rect key="frame" x="94" y="334" width="60" height="60"/>
-                                <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="5" image="number_004_5.png">
+                                <state key="normal" title="5">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -183,8 +194,8 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Iry-Qp-EhZ">
                                 <rect key="frame" x="234" y="266" width="60" height="264"/>
-                                <color key="backgroundColor" red="1" green="0.50206036489999994" blue="0.18506405710000001" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" name="Courier" family="Courier" pointSize="65"/>
+                                <color key="backgroundColor" red="0.92549026010000002" green="0.09803922474" blue="0.32549020649999999" alpha="0.59999999999999998" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="E">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -196,7 +207,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.41176474089999998" green="0.16078431900000001" blue="0.76862752440000004" alpha="0.25" colorSpace="deviceRGB"/>
                     </view>
                     <navigationItem key="navigationItem" title="料金" id="4cU-C5-DqD"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
@@ -222,10 +233,11 @@
                         <subviews>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="01e-PE-NAr">
                                 <rect key="frame" x="95" y="334" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="6人" image="6.png">
-                                    <color key="titleColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="6人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -234,10 +246,11 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="06b-Dy-Utj">
                                 <rect key="frame" x="163" y="334" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="7人" image="7.png">
-                                    <color key="titleColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="7人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -246,10 +259,11 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ajN-6z-uFc">
                                 <rect key="frame" x="27" y="402" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="8人" image="8.png">
-                                    <color key="titleColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="8人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -258,10 +272,11 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yhJ-Sr-12k">
                                 <rect key="frame" x="163" y="402" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="10人" image="10.png">
-                                    <color key="titleColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="10人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -270,10 +285,11 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6OA-Qj-GbX">
                                 <rect key="frame" x="163" y="266" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="4人" image="4.png">
-                                    <color key="titleColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="4人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -282,10 +298,11 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bbm-xq-OLA">
                                 <rect key="frame" x="27" y="266" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="2人" image="2.png">
-                                    <color key="titleColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="2人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -294,11 +311,11 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cnr-75-FDc">
                                 <rect key="frame" x="26" y="470" width="197" height="70"/>
-                                <color key="backgroundColor" red="0.18174511190000001" green="0.60139816999999995" blue="0.41669923069999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="Courier" family="Courier" pointSize="50"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="C">
-                                    <color key="titleColor" red="0.610042156" green="0.99042537180000001" blue="0.69410334949999997" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleColor" red="0.8222053346" green="0.1060547225" blue="0.21330229479999999" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -307,10 +324,11 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QMc-3y-sAJ">
                                 <rect key="frame" x="27" y="334" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="5人" image="5.png">
-                                    <color key="titleColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="5人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -319,10 +337,11 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pCd-78-pvo">
                                 <rect key="frame" x="95" y="266" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="3人" image="3.png">
-                                    <color key="titleColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="3人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -330,15 +349,15 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lxa-aM-KFl">
-                                <rect key="frame" x="0.0" y="142" width="255" height="90"/>
-                                <color key="backgroundColor" red="1" green="0.887974865" blue="0.65546347989999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <rect key="frame" x="0.0" y="142" width="252" height="90"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="80"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="人" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Fc-dK-6YZ">
                                 <rect key="frame" x="252" y="142" width="70" height="90"/>
-                                <color key="backgroundColor" red="1" green="0.887974865" blue="0.65546347989999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
@@ -351,10 +370,11 @@
                             </label>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UQW-7h-976">
                                 <rect key="frame" x="95" y="402" width="60" height="60"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="1"/>
+                                <color key="backgroundColor" red="0.97647064920000004" green="0.97647064920000004" blue="0.97647064920000004" alpha="1" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="9人" image="9.png">
-                                    <color key="titleColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="9人">
+                                    <color key="titleColor" red="0.074509806930000005" green="0.29803922770000002" blue="0.56078433989999998" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                     <color key="titleShadowColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
@@ -363,8 +383,8 @@
                             </button>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="128-Fi-FCX">
                                 <rect key="frame" x="235" y="264" width="60" height="276"/>
-                                <color key="backgroundColor" red="1" green="0.50206036489999994" blue="0.18506405710000001" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" name="Courier" family="Courier" pointSize="50"/>
+                                <color key="backgroundColor" red="0.92549026010000002" green="0.09803922474" blue="0.32549020649999999" alpha="0.59999999999999998" colorSpace="deviceRGB"/>
+                                <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="50"/>
                                 <color key="tintColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="E">
                                     <color key="titleColor" red="0.98877346619999995" green="0.99021595159999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -376,7 +396,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.41176474089999998" green="0.16078431900000001" blue="0.76862752440000004" alpha="0.25" colorSpace="deviceRGB"/>
                     </view>
                     <navigationItem key="navigationItem" title="人数" id="yE9-Xa-rod"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
@@ -403,23 +423,23 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cvj-jl-lwV">
                                 <rect key="frame" x="85" y="325" width="150" height="150"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="1"/>
-                                <state key="normal" title="10円単位" image="10yen.jpg">
+                                <state key="normal" title="10円単位" image="10yen.png">
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
                                     <segue destination="xYW-Rb-ck1" kind="show" identifier="ten" id="r9k-z5-jQ0"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="割る単位を選択してください。" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7dF-dl-sF1">
-                                <rect key="frame" x="20" y="91" width="300" height="50"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="料金の下の単位を選択してください。" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7dF-dl-sF1">
+                                <rect key="frame" x="-5" y="91" width="340" height="50"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PvA-FM-8DD">
                                 <rect key="frame" x="85" y="167" width="150" height="150"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="1"/>
-                                <state key="normal" title="1円単位" image="1yen.jpg">
+                                <state key="normal" title="1円単位" image="1yen.png">
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -427,7 +447,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.41176474089999998" green="0.16078431900000001" blue="0.76862752440000004" alpha="0.25" colorSpace="deviceRGB"/>
                     </view>
                     <navigationItem key="navigationItem" title="選択" id="Vrl-Xg-1Pl"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
@@ -462,14 +482,14 @@
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e87-SU-0BV">
                                 <rect key="frame" x="0.0" y="236" width="255" height="90"/>
-                                <color key="backgroundColor" red="0.30806516099999998" green="0.68845962189999999" blue="0.86809384820000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="80"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="円" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kBW-jh-DNc">
                                 <rect key="frame" x="255" y="236" width="70" height="90"/>
-                                <color key="backgroundColor" red="0.30806516099999998" green="0.68845962189999999" blue="0.86809384820000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
@@ -482,28 +502,28 @@
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="　端数は" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="x12-oy-T7J">
                                 <rect key="frame" x="0.0" y="403" width="156" height="50"/>
-                                <color key="backgroundColor" red="0.28909440069999998" green="1" blue="0.75442558140000004" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="St0-5W-NXo">
                                 <rect key="frame" x="124" y="403" width="123" height="50"/>
-                                <color key="backgroundColor" red="0.28909440069999998" green="1" blue="0.75442558140000004" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text=" です。" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mEd-A1-n0h">
                                 <rect key="frame" x="247" y="403" width="128" height="50"/>
-                                <color key="backgroundColor" red="0.28909440069999998" green="1" blue="0.75442558140000004" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="1" green="0.81568634510000004" blue="0.0" alpha="1" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" alpha="0.89999997615814209" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kZu-oZ-ZG5">
                                 <rect key="frame" x="-27" y="471" width="375" height="60"/>
-                                <color key="backgroundColor" red="1" green="0.59838402270000002" blue="0.81084167959999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="1" green="0.0" blue="0.2588235438" alpha="0.90000000000000002" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="tintColor" red="0.63529411759999999" green="0.76078431369999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="TOP">
@@ -515,7 +535,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.7314929161" green="0.78452660809999997" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.41176474089999998" green="0.16078431900000001" blue="0.76862752440000004" alpha="0.25" colorSpace="deviceRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="iTV-ui-tgd"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
@@ -549,28 +569,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="10.png" width="1800" height="1180"/>
-        <image name="10yen.jpg" width="1200" height="1200"/>
-        <image name="1yen.jpg" width="1200" height="1200"/>
-        <image name="2.png" width="989" height="1171"/>
-        <image name="3.png" width="1032" height="1184"/>
-        <image name="4.png" width="1097" height="1174"/>
-        <image name="5.png" width="1021" height="1173"/>
-        <image name="6.png" width="1062" height="1184"/>
-        <image name="7.png" width="1022" height="1178"/>
-        <image name="8.png" width="1062" height="1184"/>
-        <image name="9.png" width="1030" height="1182"/>
-        <image name="number_004_0.png" width="650" height="800"/>
-        <image name="number_004_00.png" width="1029" height="801"/>
-        <image name="number_004_1.png" width="650" height="800"/>
-        <image name="number_004_2.png" width="650" height="800"/>
-        <image name="number_004_3.png" width="650" height="800"/>
-        <image name="number_004_4.png" width="650" height="800"/>
-        <image name="number_004_5.png" width="650" height="800"/>
-        <image name="number_004_6.png" width="650" height="800"/>
-        <image name="number_004_7.png" width="650" height="800"/>
-        <image name="number_004_8.png" width="650" height="800"/>
-        <image name="number_004_9.png" width="650" height="800"/>
+        <image name="10yen.png" width="1200" height="1200"/>
+        <image name="1yen.png" width="1200" height="1200"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="r9k-z5-jQ0"/>

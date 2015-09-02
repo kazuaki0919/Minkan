@@ -32,12 +32,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         var storyboard = UIStoryboard()
         var height = UIScreen.mainScreen().bounds.size.height
         
-        //iPhone6
-        if height == 667 {
-            storyboard = UIStoryboard(name: "Main.storyboard", bundle: nil)
         //iPhone6 Plus
-        }else if height == 736 {
+         if height == 736 {
             storyboard = UIStoryboard(name: "5.5inchStoryboard", bundle: nil)
+        //iPhone6
+        }else if height == 667 {
+            storyboard = UIStoryboard(name: "Main", bundle: nil)
+        //iPhone4/4s
+        }else if height == 480 {
+            storyboard = UIStoryboard(name: "3.5inchStoryboard", bundle: nil)
         //iPhone5・5s・5c
         }else {
             storyboard = UIStoryboard(name: "4inchStoryboard", bundle: nil)

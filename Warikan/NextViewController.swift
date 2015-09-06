@@ -16,6 +16,12 @@ class NextViewController: UIViewController {
     @IBOutlet var label4:UILabel!
     var feelnumber:Int!
     
+    override func viewWillAppear(animated: Bool) {
+        number
+            = 0
+        label2.text = String(number)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

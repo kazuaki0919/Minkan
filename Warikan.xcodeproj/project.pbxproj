@@ -15,6 +15,7 @@
 		726652ED1B71E022002B1DE8 /* 5.5inchStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 726652EC1B71E022002B1DE8 /* 5.5inchStoryboard.storyboard */; };
 		726652EF1B71E033002B1DE8 /* 4inchStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 726652EE1B71E033002B1DE8 /* 4inchStoryboard.storyboard */; };
 		727863D61B96FC100082BC32 /* 3.5inchStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 727863D51B96FC100082BC32 /* 3.5inchStoryboard.storyboard */; };
+		728ABBAC1B9C758400F55AA3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 728ABBAB1B9C758400F55AA3 /* Default-568h@2x.png */; };
 		729038341B4D3E9D0030344B /* ChoiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 729038331B4D3E9D0030344B /* ChoiceViewController.swift */; };
 		72CA00C31B1169A70098E1FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CA00C21B1169A70098E1FF /* AppDelegate.swift */; };
 		72CA00C51B1169A70098E1FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CA00C41B1169A70098E1FF /* ViewController.swift */; };
@@ -42,6 +43,7 @@
 		726652EC1B71E022002B1DE8 /* 5.5inchStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = 5.5inchStoryboard.storyboard; sourceTree = "<group>"; };
 		726652EE1B71E033002B1DE8 /* 4inchStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = 4inchStoryboard.storyboard; sourceTree = "<group>"; };
 		727863D51B96FC100082BC32 /* 3.5inchStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = 3.5inchStoryboard.storyboard; sourceTree = "<group>"; };
+		728ABBAB1B9C758400F55AA3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		729038331B4D3E9D0030344B /* ChoiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChoiceViewController.swift; sourceTree = "<group>"; };
 		72CA00BD1B1169A70098E1FF /* Warikan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Warikan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72CA00C11B1169A70098E1FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 		72CA00B41B1169A70098E1FF = {
 			isa = PBXGroup;
 			children = (
+				728ABBAB1B9C758400F55AA3 /* Default-568h@2x.png */,
 				72CA00BF1B1169A70098E1FF /* Warikan */,
 				72CA00D51B1169A70098E1FF /* WarikanTests */,
 				72CA00BE1B1169A70098E1FF /* Products */,
@@ -219,6 +222,7 @@
 			files = (
 				720E539E1B1F16160022A71D /* Main.storyboard in Resources */,
 				72CA00CD1B1169A70098E1FF /* LaunchScreen.xib in Resources */,
+				728ABBAC1B9C758400F55AA3 /* Default-568h@2x.png in Resources */,
 				726652ED1B71E022002B1DE8 /* 5.5inchStoryboard.storyboard in Resources */,
 				723471E61B97198300552C05 /* 1yen.png in Resources */,
 				727863D61B96FC100082BC32 /* 3.5inchStoryboard.storyboard in Resources */,
@@ -380,6 +384,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = Warikan;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -394,6 +399,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = Warikan;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

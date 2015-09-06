@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D9AE72BE-BAF8-4D5E-A783-4D663755370C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Warikan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>90DD710F37466CFCCA49C878BD6AA8BDBA537915</key>
+		<string>https://github.com/kazuaki0919/warikan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Warikan.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>90DD710F37466CFCCA49C878BD6AA8BDBA537915</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kazuaki0919/warikan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>90DD710F37466CFCCA49C878BD6AA8BDBA537915</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90DD710F37466CFCCA49C878BD6AA8BDBA537915</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Warikan</string>
+		</dict>
+	</array>
+</dict>
+</plist>

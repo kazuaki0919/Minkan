@@ -49,7 +49,8 @@ class ChoiceViewController: UIViewController {
             
             NSLog("は%dだった",self.choicenumber)
         }
-    }
+        
+     }
     
 
     

@@ -17,8 +17,7 @@ class NextViewController: UIViewController {
     var feelnumber:Int!
     
     override func viewWillAppear(animated: Bool) {
-        number
-            = 0
+        number = 0
         label2.text = String(number)
     }
     

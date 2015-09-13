@@ -99,7 +99,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="円" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fnx-qO-RXA">
-                                <rect key="frame" x="345" y="158" width="69" height="107"/>
+                                <rect key="frame" x="343" y="158" width="71" height="107"/>
                                 <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="50"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -204,7 +204,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vvk-mt-aZD">
-                                <rect key="frame" x="0.0" y="158" width="345" height="107"/>
+                                <rect key="frame" x="0.0" y="158" width="343" height="107"/>
                                 <color key="backgroundColor" red="0.090196080509999998" green="0.6784313917" blue="0.45490199329999997" alpha="0.69999999999999996" colorSpace="deviceRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="120"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>

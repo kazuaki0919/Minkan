@@ -439,7 +439,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qzV-0U-a8J">
-                                <rect key="frame" x="87" y="199" width="200" height="200"/>
+                                <rect key="frame" x="116" y="199" width="150" height="150"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="1"/>
                                 <state key="normal" title="1円単位" image="1yen.png">
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -449,7 +449,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Baa-ze-Qr1">
-                                <rect key="frame" x="87" y="407" width="200" height="200"/>
+                                <rect key="frame" x="116" y="359" width="150" height="150"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="1"/>
                                 <state key="normal" title="10円単位" image="10yen.png">
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>

@@ -43,8 +43,6 @@ class ResultViewController: UIViewController {
         amari = totalnumber-resultnumber*peoplenumber
         label5.text=String(amari)
         }
-        
-        
     }
 
     

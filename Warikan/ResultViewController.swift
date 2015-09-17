@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Social
 
 class ResultViewController: UIViewController {
     
@@ -43,11 +44,6 @@ class ResultViewController: UIViewController {
         amari = totalnumber-resultnumber*peoplenumber
         label5.text=String(amari)
         }
-    }
-
-    
-    @IBAction func top(sender: UIButton){
-                self.navigationController?.popToRootViewControllerAnimated(true)
     }
 
     override func didReceiveMemoryWarning() {

@@ -45,7 +45,7 @@
 		727863D51B96FC100082BC32 /* 3.5inchStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = 3.5inchStoryboard.storyboard; sourceTree = "<group>"; };
 		728ABBAB1B9C758400F55AA3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		729038331B4D3E9D0030344B /* ChoiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChoiceViewController.swift; sourceTree = "<group>"; };
-		72CA00BD1B1169A70098E1FF /* Warikan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Warikan.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		72CA00BD1B1169A70098E1FF /* みん割！.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "みん割！.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		72CA00C11B1169A70098E1FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72CA00C21B1169A70098E1FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72CA00C41B1169A70098E1FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -87,7 +87,7 @@
 		72CA00BE1B1169A70098E1FF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				72CA00BD1B1169A70098E1FF /* Warikan.app */,
+				72CA00BD1B1169A70098E1FF /* みん割！.app */,
 				72CA00D21B1169A70098E1FF /* WarikanTests.xctest */,
 			);
 			name = Products;
@@ -156,7 +156,7 @@
 			);
 			name = Warikan;
 			productName = Warikan;
-			productReference = 72CA00BD1B1169A70098E1FF /* Warikan.app */;
+			productReference = 72CA00BD1B1169A70098E1FF /* みん割！.app */;
 			productType = "com.apple.product-type.application";
 		};
 		72CA00D11B1169A70098E1FF /* WarikanTests */ = {
@@ -382,7 +382,7 @@
 				INFOPLIST_FILE = Warikan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = Warikan;
+				PRODUCT_NAME = "みん割！";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -397,7 +397,7 @@
 				INFOPLIST_FILE = Warikan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = Warikan;
+				PRODUCT_NAME = "みん割！";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};

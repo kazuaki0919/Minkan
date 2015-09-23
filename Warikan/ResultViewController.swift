@@ -45,6 +45,11 @@ class ResultViewController: UIViewController {
         label5.text=String(amari)
         }
     }
+    
+    
+    @IBAction func top(sender: UIButton){
+        self.navigationController?.popToRootViewControllerAnimated(true)
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()

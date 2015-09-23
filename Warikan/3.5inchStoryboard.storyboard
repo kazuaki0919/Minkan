@@ -7,7 +7,7 @@
         <!--料金-->
         <scene sceneID="k44-wU-zlA">
             <objects>
-                <viewController id="ptp-6n-Qqf" customClass="ViewController" customModule="Warikan" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="ptp-6n-Qqf" customClass="ViewController" customModule="みん割_" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ivz-Rf-XS4"/>
                         <viewControllerLayoutGuide type="bottom" id="nh8-bg-Ag2"/>
@@ -226,7 +226,7 @@
         <!--人数-->
         <scene sceneID="y7t-wC-4dk">
             <objects>
-                <viewController id="B0R-pn-CAs" customClass="NextViewController" customModule="Warikan" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="B0R-pn-CAs" customClass="NextViewController" customModule="みん割_" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="grR-5g-2QM"/>
                         <viewControllerLayoutGuide type="bottom" id="eo9-Wm-LI2"/>
@@ -419,7 +419,7 @@
         <!--選択-->
         <scene sceneID="7mU-FB-LVq">
             <objects>
-                <viewController id="bJK-tE-gxj" customClass="ChoiceViewController" customModule="Warikan" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="bJK-tE-gxj" customClass="ChoiceViewController" customModule="みん割_" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="KjC-GX-Mu4"/>
                         <viewControllerLayoutGuide type="bottom" id="O7r-Uw-yCy"/>
@@ -471,7 +471,7 @@
         <!--Result View Controller-->
         <scene sceneID="iJL-SG-Z6y">
             <objects>
-                <viewController id="iGT-8h-aEw" customClass="ResultViewController" customModule="Warikan" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="iGT-8h-aEw" customClass="ResultViewController" customModule="みん割_" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ilO-Q8-g5F"/>
                         <viewControllerLayoutGuide type="bottom" id="6Rw-xk-5b5"/>

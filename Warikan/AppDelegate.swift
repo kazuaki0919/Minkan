@@ -18,9 +18,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
         
-        var storyboard: UIStoryboard = self.grabStoryboard()
+        let storyboard: UIStoryboard = self.grabStoryboard()
         if let window = window {
-            window.rootViewController = storyboard.instantiateInitialViewController() as? UIViewController
+            window.rootViewController = storyboard.instantiateInitialViewController() as UIViewController!
         }
         
         self.window?.makeKeyAndVisible()
@@ -30,7 +30,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func grabStoryboard() -> UIStoryboard {
         var storyboard = UIStoryboard()
-        var height = UIScreen.mainScreen().bounds.size.height
+        let height = UIScreen.mainScreen().bounds.size.height
         
         //iPhone6 Plus
          if height == 736 {

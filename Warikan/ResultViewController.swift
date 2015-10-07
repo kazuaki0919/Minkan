@@ -28,7 +28,7 @@ class ResultViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        println(choicenumber)
+        print(choicenumber)
         
         if choicenumber == 1{
         resultnumber = totalnumber/peoplenumber
